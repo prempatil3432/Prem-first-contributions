@@ -5,7 +5,7 @@
 - [piyush kumar] - jai hind
 - [Lakshya Saxena] - lakshya
 - [gegiamalkhaz87-lgtm](https://github.com/gegiamalkhaz87-lgtm) - My first contribution! [Rithull](https://github.com/rithullkallat-ctrl) - First contribution!
-- [Yuan ChengZhi](https://github.com/Hlf-cswz)"This is my first contribution"
+- [Prempatil3432](https://github.com/prempatil3432)"This is my first contribution"
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
